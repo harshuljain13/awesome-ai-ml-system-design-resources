@@ -11,4 +11,6 @@ Traditional system design is being disrupted by AI. This repo is your guide to u
 
 👉 Subscribe to [The Engineer's Digest Newsletter](https://harshuljain.substack.com/) to see the dissection of these concepts from a curious engineer.
 
+👉 Join the [Discord](https://discord.gg/xtAdzvbM) community of professionals and learn from each other's experiences. 
+
 Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning to AI**, and anyone building production AI systems in 2025 and beyond.
