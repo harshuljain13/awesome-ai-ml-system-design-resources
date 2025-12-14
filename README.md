@@ -7,16 +7,16 @@ Traditional system design is being disrupted by AI. This repo is your guide to u
 Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning to AI**, and anyone building production AI systems in 2025 and beyond.
 
 
-## Intro
+## 🌐 Intro
 - [Why ML AI System Design](https://grokkingtechcareer.substack.com/p/3-ai-system-design-skills-companies)
 
-## System Design Core Concepts
+## ⚙️ System Design Core Concepts
 
-## ML Core Concepts
+## 🧩 ML Core Concepts
 
-## Case Studies
+## 🗞️ Case Studies
 
-## NewsLetters to Follow
+## 📜 NewsLetters to Follow
 - [Grokking Tech Career](https://grokkingtechcareer.substack.com/)
 - [The Engineer's Digest](https://harshuljain.substack.com/)
 
