@@ -12,7 +12,13 @@ Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning
 
 ## ⚙️ System Design Core Concepts
 
-## 🧩 ML Core Concepts
+## ⚙️ ML Core Concepts
+
+## 🧩 MLOPs Platform Design
+
+## 🧩 ML System Design
+
+## 🧩 Gen AI System Design
 
 ## 🗞️ Case Studies
 
