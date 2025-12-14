@@ -23,8 +23,8 @@ Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning
 ## 🗞️ Case Studies
 
 ## 📜 NewsLetters to Follow
-- [Grokking Tech Career](https://grokkingtechcareer.substack.com/)
 - [The Engineer's Digest](https://harshuljain.substack.com/)
+- [Grokking Tech Career](https://grokkingtechcareer.substack.com/)
 
 
 
