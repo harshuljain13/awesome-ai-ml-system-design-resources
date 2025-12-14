@@ -8,7 +8,7 @@ Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning
 
 
 ## Intro
-[Why ML AI System Design](https://grokkingtechcareer.substack.com/p/3-ai-system-design-skills-companies)
+- [Why ML AI System Design](https://grokkingtechcareer.substack.com/p/3-ai-system-design-skills-companies)
 
 ## System Design Core Concepts
 
@@ -17,8 +17,8 @@ Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning
 ## Case Studies
 
 ## NewsLetters to Follow
-[Grokking Tech Career](https://grokkingtechcareer.substack.com/)
-[The Engineer's Digest](https://harshuljain.substack.com/)
+- [Grokking Tech Career](https://grokkingtechcareer.substack.com/)
+- [The Engineer's Digest](https://harshuljain.substack.com/)
 
 
 
