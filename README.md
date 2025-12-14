@@ -1,4 +1,4 @@
-# Awesome AI ML System Design  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome AI ML System Design Resources  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Traditional system design is being disrupted by AI. This repo is your guide to understanding how modern GenAI/ML systems are built, scaled, and operated in production.
 
