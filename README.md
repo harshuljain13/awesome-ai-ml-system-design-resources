@@ -2,8 +2,6 @@
 
 Traditional system design is being disrupted by AI. This repo is your guide to understanding how modern GenAI/ML systems are built, scaled, and operated in production.
 
-👉 Subscribe to [The Engineer's Digest Newsletter](https://harshuljain.substack.com/) to see the dissection of some these concepts from a curious engineer.
-
 👉 Join the [Discord](https://discord.gg/xtAdzvbM) community of professionals and learn from each other's experiences. 
 
 Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning to AI**, and anyone building production AI systems in 2025 and beyond.
@@ -18,6 +16,9 @@ Perfect for **ML Engineers, Platform Engineers, Software Engineers transitioning
 
 ## Case Studies
 
+## NewsLetters to Follow
+[Grokking Tech Career](https://grokkingtechcareer.substack.com/)
+[The Engineer's Digest](https://harshuljain.substack.com/)
 
 
 
